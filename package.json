@@ -35,7 +35,7 @@
     ]
   },
   "dependencies": {
-    "classnames": "^2.2.3",
+    "classnames": "^2.2.3"
   },
   "devDependencies": {
     "babelify": "^6.1.3",
