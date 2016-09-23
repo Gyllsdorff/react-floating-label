@@ -45,7 +45,7 @@
     "uglify-js": "^2.4.24",
     "watchify": "^3.2.3"
   },
-  "peerDependencies" {
+  "peerDependencies": {
     "react": "~0.14.7"
   }
 }
